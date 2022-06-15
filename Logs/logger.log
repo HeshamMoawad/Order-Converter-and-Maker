@@ -1,0 +1,554 @@
+2022-06-12 22:40:05:INFO:connected with internet
+2022-06-12 22:40:05:INFO:openinng browsers
+2022-06-12 22:40:10:INFO:
+
+2022-06-12 22:40:10:INFO:====== WebDriver manager ======
+2022-06-12 22:40:10:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 22:40:10:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 22:40:11:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-12 22:40:19:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-12 22:40:37:INFO:Menus opened succesful
+2022-06-12 22:40:42:INFO:
+
+2022-06-12 22:40:42:INFO:====== WebDriver manager ======
+2022-06-12 22:40:43:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 22:40:43:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 22:40:44:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-12 22:41:10:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-12 22:41:17:ERROR:Oms : user already exist or Error in network connection : Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="xlblMainMenu"]"}
+  (Session info: chrome=102.0.5005.63)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0030D953+2414931]
+	Ordinal0 [0x0029F5E1+1963489]
+	Ordinal0 [0x0018C6B8+837304]
+	Ordinal0 [0x001B9500+1021184]
+	Ordinal0 [0x001B979B+1021851]
+	Ordinal0 [0x001E6502+1205506]
+	Ordinal0 [0x001D44E4+1131748]
+	Ordinal0 [0x001E4812+1198098]
+	Ordinal0 [0x001D42B6+1131190]
+	Ordinal0 [0x001AE860+976992]
+	Ordinal0 [0x001AF756+980822]
+	GetHandleVerifier [0x0057CC62+2510274]
+	GetHandleVerifier [0x0056F760+2455744]
+	GetHandleVerifier [0x0039EABA+551962]
+	GetHandleVerifier [0x0039D916+547446]
+	Ordinal0 [0x002A5F3B+1990459]
+	Ordinal0 [0x002AA898+2009240]
+	Ordinal0 [0x002AA985+2009477]
+	Ordinal0 [0x002B3AD1+2046673]
+	BaseThreadInitThunk [0x7634FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x778A7A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x778A7A4E+238]
+	(No symbol) [0x00000000]
+
+2022-06-12 22:43:10:INFO:connected with internet
+2022-06-12 22:43:10:INFO:openinng browsers
+2022-06-12 22:43:15:INFO:
+
+2022-06-12 22:43:15:INFO:====== WebDriver manager ======
+2022-06-12 22:43:15:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 22:43:15:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 22:43:16:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-12 22:43:20:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-12 22:43:38:INFO:Menus opened succesful
+2022-06-12 22:43:42:INFO:
+
+2022-06-12 22:43:42:INFO:====== WebDriver manager ======
+2022-06-12 22:43:43:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 22:43:43:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 22:43:45:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-12 22:44:10:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-12 22:44:14:INFO:Oms opened succesful
+2022-06-12 22:44:22:INFO:Accept order
+2022-06-12 22:44:22:INFO:Menus : collecting data
+2022-06-12 22:45:02:INFO:Oms : Preparing order
+2022-06-12 22:45:06:INFO:01141111327 : Order Completed --> take 16.107553482055664 to collect and 27.785503387451172 to making total time 43.893056869506836
+2022-06-12 22:45:06:ERROR:item add or Send order : system() argument 1 must be str, not int
+2022-06-12 22:45:07:INFO:connected with internet
+2022-06-12 22:45:07:ERROR:Main While loop : 'Operations_Oms' object has no attribute 'non_complete_order'
+2022-06-12 22:52:54:INFO:connected with internet
+2022-06-12 22:52:54:INFO:openinng browsers
+2022-06-12 22:52:58:INFO:
+
+2022-06-12 22:52:58:INFO:====== WebDriver manager ======
+2022-06-12 22:52:58:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 22:52:58:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 22:52:59:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-12 22:53:03:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-12 22:53:20:INFO:Menus opened succesful
+2022-06-12 22:53:24:INFO:
+
+2022-06-12 22:53:24:INFO:====== WebDriver manager ======
+2022-06-12 22:53:25:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 22:53:25:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 22:53:25:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-12 22:54:24:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-12 22:54:26:ERROR:Oms : user already exist or Error in network connection : Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="tbUsername"]"}
+  (Session info: chrome=102.0.5005.63)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B7D953+2414931]
+	Ordinal0 [0x00B0F5E1+1963489]
+	Ordinal0 [0x009FC6B8+837304]
+	Ordinal0 [0x00A29500+1021184]
+	Ordinal0 [0x00A2979B+1021851]
+	Ordinal0 [0x00A56502+1205506]
+	Ordinal0 [0x00A444E4+1131748]
+	Ordinal0 [0x00A54812+1198098]
+	Ordinal0 [0x00A442B6+1131190]
+	Ordinal0 [0x00A1E860+976992]
+	Ordinal0 [0x00A1F756+980822]
+	GetHandleVerifier [0x00DECC62+2510274]
+	GetHandleVerifier [0x00DDF760+2455744]
+	GetHandleVerifier [0x00C0EABA+551962]
+	GetHandleVerifier [0x00C0D916+547446]
+	Ordinal0 [0x00B15F3B+1990459]
+	Ordinal0 [0x00B1A898+2009240]
+	Ordinal0 [0x00B1A985+2009477]
+	Ordinal0 [0x00B23AD1+2046673]
+	BaseThreadInitThunk [0x7634FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x778A7A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x778A7A4E+238]
+
+2022-06-12 22:58:11:WARNING:No Internet connection available
+2022-06-12 22:58:11:INFO:openinng browsers
+2022-06-12 22:58:15:INFO:
+
+2022-06-12 22:58:15:INFO:====== WebDriver manager ======
+2022-06-12 22:58:16:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 22:58:16:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 22:58:17:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-12 23:00:09:WARNING:No Internet connection available
+2022-06-12 23:00:09:INFO:openinng browsers
+2022-06-12 23:00:09:INFO:
+
+2022-06-12 23:00:09:INFO:====== WebDriver manager ======
+2022-06-12 23:00:10:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 23:00:10:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 23:01:17:ERROR:Menus : ('Connection aborted.', TimeoutError(10060, 'A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond', None, 10060, None))
+2022-06-12 23:07:41:WARNING:No Internet connection available
+2022-06-12 23:07:41:INFO:openinng browsers
+2022-06-12 23:07:41:INFO:
+
+2022-06-12 23:07:41:INFO:====== WebDriver manager ======
+2022-06-12 23:07:41:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 23:07:41:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 23:07:44:ERROR:Menus : HTTPSConnectionPool(host='chromedriver.storage.googleapis.com', port=443): Max retries exceeded with url: /LATEST_RELEASE_102.0.5005 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000029114304B08>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-06-12 23:19:16:INFO:connected with internet
+2022-06-12 23:19:16:INFO:openinng browsers
+2022-06-12 23:19:16:INFO:
+
+2022-06-12 23:19:16:INFO:====== WebDriver manager ======
+2022-06-12 23:19:17:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 23:19:17:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 23:19:18:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-12 23:19:49:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-12 23:22:30:INFO:Menus opened succesful
+2022-06-12 23:22:31:INFO:
+
+2022-06-12 23:22:31:INFO:====== WebDriver manager ======
+2022-06-12 23:22:31:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 23:22:31:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 23:22:33:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-12 23:23:35:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-12 23:28:37:ERROR:Oms : user already exist or Error in network connection : Message: timeout: Timed out receiving message from renderer: 299.809
+  (Session info: chrome=102.0.5005.63)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x010DD953+2414931]
+	Ordinal0 [0x0106F5E1+1963489]
+	Ordinal0 [0x00F5C6B8+837304]
+	Ordinal0 [0x00F4D740+776000]
+	Ordinal0 [0x00F4C565+771429]
+	Ordinal0 [0x00F4CB68+772968]
+	Ordinal0 [0x00F5785F+817247]
+	Ordinal0 [0x00F6255B+861531]
+	Ordinal0 [0x00F64F70+872304]
+	Ordinal0 [0x00F4CE36+773686]
+	Ordinal0 [0x00F623A9+861097]
+	Ordinal0 [0x00FB4B55+1198933]
+	Ordinal0 [0x00FA42B6+1131190]
+	Ordinal0 [0x00F7E860+976992]
+	Ordinal0 [0x00F7F756+980822]
+	GetHandleVerifier [0x0134CC62+2510274]
+	GetHandleVerifier [0x0133F760+2455744]
+	GetHandleVerifier [0x0116EABA+551962]
+	GetHandleVerifier [0x0116D916+547446]
+	Ordinal0 [0x01075F3B+1990459]
+	Ordinal0 [0x0107A898+2009240]
+	Ordinal0 [0x0107A985+2009477]
+	Ordinal0 [0x01083AD1+2046673]
+	BaseThreadInitThunk [0x7634FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x778A7A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x778A7A4E+238]
+
+2022-06-12 23:30:31:INFO:connected with internet
+2022-06-12 23:30:31:INFO:openinng browsers
+2022-06-12 23:30:31:INFO:
+
+2022-06-12 23:30:31:INFO:====== WebDriver manager ======
+2022-06-12 23:30:31:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 23:30:31:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 23:30:35:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-12 23:31:08:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-12 23:31:37:ERROR:Menus : Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="username"]"}
+  (Session info: chrome=102.0.5005.63)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00F4D953+2414931]
+	Ordinal0 [0x00EDF5E1+1963489]
+	Ordinal0 [0x00DCC6B8+837304]
+	Ordinal0 [0x00DF9500+1021184]
+	Ordinal0 [0x00DF979B+1021851]
+	Ordinal0 [0x00E26502+1205506]
+	Ordinal0 [0x00E144E4+1131748]
+	Ordinal0 [0x00E24812+1198098]
+	Ordinal0 [0x00E142B6+1131190]
+	Ordinal0 [0x00DEE860+976992]
+	Ordinal0 [0x00DEF756+980822]
+	GetHandleVerifier [0x011BCC62+2510274]
+	GetHandleVerifier [0x011AF760+2455744]
+	GetHandleVerifier [0x00FDEABA+551962]
+	GetHandleVerifier [0x00FDD916+547446]
+	Ordinal0 [0x00EE5F3B+1990459]
+	Ordinal0 [0x00EEA898+2009240]
+	Ordinal0 [0x00EEA985+2009477]
+	Ordinal0 [0x00EF3AD1+2046673]
+	BaseThreadInitThunk [0x7634FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x778A7A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x778A7A4E+238]
+
+2022-06-12 23:35:02:INFO:connected with internet
+2022-06-12 23:35:02:INFO:openinng browsers
+2022-06-12 23:35:02:INFO:
+
+2022-06-12 23:35:02:INFO:====== WebDriver manager ======
+2022-06-12 23:35:03:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 23:35:03:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 23:35:06:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-12 23:35:58:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-12 23:36:37:ERROR:Menus : Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="username"]"}
+  (Session info: chrome=102.0.5005.63)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0046D953+2414931]
+	Ordinal0 [0x003FF5E1+1963489]
+	Ordinal0 [0x002EC6B8+837304]
+	Ordinal0 [0x00319500+1021184]
+	Ordinal0 [0x0031979B+1021851]
+	Ordinal0 [0x00346502+1205506]
+	Ordinal0 [0x003344E4+1131748]
+	Ordinal0 [0x00344812+1198098]
+	Ordinal0 [0x003342B6+1131190]
+	Ordinal0 [0x0030E860+976992]
+	Ordinal0 [0x0030F756+980822]
+	GetHandleVerifier [0x006DCC62+2510274]
+	GetHandleVerifier [0x006CF760+2455744]
+	GetHandleVerifier [0x004FEABA+551962]
+	GetHandleVerifier [0x004FD916+547446]
+	Ordinal0 [0x00405F3B+1990459]
+	Ordinal0 [0x0040A898+2009240]
+	Ordinal0 [0x0040A985+2009477]
+	Ordinal0 [0x00413AD1+2046673]
+	BaseThreadInitThunk [0x7634FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x778A7A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x778A7A4E+238]
+
+2022-06-12 23:50:57:INFO:connected with internet
+2022-06-12 23:50:57:INFO:openinng browsers
+2022-06-12 23:50:57:INFO:
+
+2022-06-12 23:50:57:INFO:====== WebDriver manager ======
+2022-06-12 23:50:57:INFO:Current google-chrome version is 102.0.5005
+2022-06-12 23:50:57:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-12 23:50:58:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-12 23:51:29:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-12 23:52:01:ERROR:Menus : Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="username"]"}
+  (Session info: chrome=102.0.5005.63)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0033D953+2414931]
+	Ordinal0 [0x002CF5E1+1963489]
+	Ordinal0 [0x001BC6B8+837304]
+	Ordinal0 [0x001E9500+1021184]
+	Ordinal0 [0x001E979B+1021851]
+	Ordinal0 [0x00216502+1205506]
+	Ordinal0 [0x002044E4+1131748]
+	Ordinal0 [0x00214812+1198098]
+	Ordinal0 [0x002042B6+1131190]
+	Ordinal0 [0x001DE860+976992]
+	Ordinal0 [0x001DF756+980822]
+	GetHandleVerifier [0x005ACC62+2510274]
+	GetHandleVerifier [0x0059F760+2455744]
+	GetHandleVerifier [0x003CEABA+551962]
+	GetHandleVerifier [0x003CD916+547446]
+	Ordinal0 [0x002D5F3B+1990459]
+	Ordinal0 [0x002DA898+2009240]
+	Ordinal0 [0x002DA985+2009477]
+	Ordinal0 [0x002E3AD1+2046673]
+	BaseThreadInitThunk [0x7634FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x778A7A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x778A7A4E+238]
+	(No symbol) [0x00000000]
+
+2022-06-13 00:17:24:INFO:connected with internet
+2022-06-13 00:17:24:INFO:openinng browsers
+2022-06-13 00:17:25:INFO:
+
+2022-06-13 00:17:25:INFO:====== WebDriver manager ======
+2022-06-13 00:17:25:INFO:Current google-chrome version is 102.0.5005
+2022-06-13 00:17:25:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-13 00:17:26:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-13 00:17:55:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-13 00:18:01:ERROR:Menus : Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="username"]"}
+  (Session info: chrome=102.0.5005.63)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0092D953+2414931]
+	Ordinal0 [0x008BF5E1+1963489]
+	Ordinal0 [0x007AC6B8+837304]
+	Ordinal0 [0x007D9500+1021184]
+	Ordinal0 [0x007D979B+1021851]
+	Ordinal0 [0x00806502+1205506]
+	Ordinal0 [0x007F44E4+1131748]
+	Ordinal0 [0x00804812+1198098]
+	Ordinal0 [0x007F42B6+1131190]
+	Ordinal0 [0x007CE860+976992]
+	Ordinal0 [0x007CF756+980822]
+	GetHandleVerifier [0x00B9CC62+2510274]
+	GetHandleVerifier [0x00B8F760+2455744]
+	GetHandleVerifier [0x009BEABA+551962]
+	GetHandleVerifier [0x009BD916+547446]
+	Ordinal0 [0x008C5F3B+1990459]
+	Ordinal0 [0x008CA898+2009240]
+	Ordinal0 [0x008CA985+2009477]
+	Ordinal0 [0x008D3AD1+2046673]
+	BaseThreadInitThunk [0x7634FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x778A7A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x778A7A4E+238]
+
+2022-06-13 00:18:41:INFO:connected with internet
+2022-06-13 00:18:41:INFO:openinng browsers
+2022-06-13 00:18:41:INFO:
+
+2022-06-13 00:18:41:INFO:====== WebDriver manager ======
+2022-06-13 00:18:42:INFO:Current google-chrome version is 102.0.5005
+2022-06-13 00:18:42:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-13 00:18:43:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-13 00:20:03:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-13 00:21:27:INFO:Menus opened succesful
+2022-06-13 00:21:27:INFO:
+
+2022-06-13 00:21:27:INFO:====== WebDriver manager ======
+2022-06-13 00:21:28:INFO:Current google-chrome version is 102.0.5005
+2022-06-13 00:21:28:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-13 00:21:29:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-13 00:23:42:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-13 00:23:56:INFO:Oms opened succesful
+2022-06-13 21:23:14:INFO:connected with internet
+2022-06-13 21:23:14:INFO:openinng browsers
+2022-06-13 21:23:14:INFO:
+
+2022-06-13 21:23:14:INFO:====== WebDriver manager ======
+2022-06-13 21:23:15:INFO:Current google-chrome version is 102.0.5005
+2022-06-13 21:23:15:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-13 21:23:16:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-13 21:23:52:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-13 21:24:56:INFO:Menus opened succesful
+2022-06-13 21:24:57:INFO:
+
+2022-06-13 21:24:57:INFO:====== WebDriver manager ======
+2022-06-13 21:24:58:INFO:Current google-chrome version is 102.0.5005
+2022-06-13 21:24:58:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-13 21:24:58:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-13 21:26:54:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-13 21:27:04:INFO:Oms opened succesful
+2022-06-13 21:28:08:INFO:Accept order
+2022-06-13 21:29:50:INFO:connected with internet
+2022-06-13 21:29:50:INFO:openinng browsers
+2022-06-13 21:29:50:INFO:
+
+2022-06-13 21:29:50:INFO:====== WebDriver manager ======
+2022-06-13 21:29:51:INFO:Current google-chrome version is 102.0.5005
+2022-06-13 21:29:51:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-13 21:29:51:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-13 21:30:21:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-13 21:31:35:INFO:Menus opened succesful
+2022-06-13 21:31:35:INFO:
+
+2022-06-13 21:31:35:INFO:====== WebDriver manager ======
+2022-06-13 21:31:36:INFO:Current google-chrome version is 102.0.5005
+2022-06-13 21:31:36:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-13 21:31:37:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-13 21:32:33:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-13 21:33:00:INFO:Oms opened succesful
+2022-06-13 21:34:20:INFO:Accept order
+2022-06-13 21:34:20:INFO:Menus : collecting data
+2022-06-13 21:34:50:INFO:Oms : Preparing order
+2022-06-13 21:35:02:INFO:01092103489 : Order Completed --> take 6.024848937988281 to collect and 36.19820594787598 to making total time 42.22305488586426
+2022-06-13 21:35:02:ERROR:item add or Send order : system() argument 1 must be str, not int
+2022-06-14 00:28:32:INFO:connected with internet
+2022-06-14 00:28:32:INFO:openinng browsers
+2022-06-14 00:28:32:INFO:
+
+2022-06-14 00:28:32:INFO:====== WebDriver manager ======
+2022-06-14 00:28:33:INFO:Current google-chrome version is 102.0.5005
+2022-06-14 00:28:33:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-14 00:28:34:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-14 00:28:39:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-14 00:28:56:INFO:Menus opened succesful
+2022-06-14 00:28:57:INFO:
+
+2022-06-14 00:28:57:INFO:====== WebDriver manager ======
+2022-06-14 00:28:57:INFO:Current google-chrome version is 102.0.5005
+2022-06-14 00:28:57:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-14 00:28:58:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-14 00:29:08:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-14 00:29:14:ERROR:Oms : user already exist or Error in network connection : Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="xlblMainMenu"]"}
+  (Session info: chrome=102.0.5005.63)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0027D953+2414931]
+	Ordinal0 [0x0020F5E1+1963489]
+	Ordinal0 [0x000FC6B8+837304]
+	Ordinal0 [0x00129500+1021184]
+	Ordinal0 [0x0012979B+1021851]
+	Ordinal0 [0x00156502+1205506]
+	Ordinal0 [0x001444E4+1131748]
+	Ordinal0 [0x00154812+1198098]
+	Ordinal0 [0x001442B6+1131190]
+	Ordinal0 [0x0011E860+976992]
+	Ordinal0 [0x0011F756+980822]
+	GetHandleVerifier [0x004ECC62+2510274]
+	GetHandleVerifier [0x004DF760+2455744]
+	GetHandleVerifier [0x0030EABA+551962]
+	GetHandleVerifier [0x0030D916+547446]
+	Ordinal0 [0x00215F3B+1990459]
+	Ordinal0 [0x0021A898+2009240]
+	Ordinal0 [0x0021A985+2009477]
+	Ordinal0 [0x00223AD1+2046673]
+	BaseThreadInitThunk [0x7634FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x778A7A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x778A7A4E+238]
+	(No symbol) [0x00000000]
+
+2022-06-14 00:30:28:INFO:connected with internet
+2022-06-14 00:30:28:INFO:openinng browsers
+2022-06-14 00:30:28:INFO:
+
+2022-06-14 00:30:28:INFO:====== WebDriver manager ======
+2022-06-14 00:30:29:INFO:Current google-chrome version is 102.0.5005
+2022-06-14 00:30:29:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-14 00:30:29:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-14 00:30:33:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-14 00:30:50:INFO:Menus opened succesful
+2022-06-14 00:30:50:INFO:
+
+2022-06-14 00:30:50:INFO:====== WebDriver manager ======
+2022-06-14 00:30:51:INFO:Current google-chrome version is 102.0.5005
+2022-06-14 00:30:51:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-14 00:30:52:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-14 00:31:21:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-14 00:31:25:INFO:Oms opened succesful
+2022-06-14 00:31:32:INFO:Accept order
+2022-06-14 00:31:32:INFO:Menus : collecting data
+2022-06-14 00:31:48:INFO:Oms : Preparing order
+2022-06-14 00:31:52:INFO:01007588678 : Order Completed --> take 5.854010820388794 to collect and 14.446768522262573 to making total time 20.300779342651367
+2022-06-14 00:31:52:ERROR:item add or Send order : system() argument 1 must be str, not int
+2022-06-14 00:47:08:INFO:connected with internet
+2022-06-14 00:47:08:INFO:openinng browsers
+2022-06-14 00:47:08:INFO:
+
+2022-06-14 00:47:08:INFO:====== WebDriver manager ======
+2022-06-14 00:47:10:INFO:Current google-chrome version is 102.0.5005
+2022-06-14 00:47:10:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-14 00:47:10:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-14 00:47:15:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-14 00:47:33:INFO:Menus opened succesful
+2022-06-14 00:47:34:INFO:
+
+2022-06-14 00:47:34:INFO:====== WebDriver manager ======
+2022-06-14 00:47:34:INFO:Current google-chrome version is 102.0.5005
+2022-06-14 00:47:34:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-14 00:47:35:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-14 00:48:18:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-14 00:48:24:INFO:Oms opened succesful
+2022-06-14 00:48:30:INFO:Accept order
+2022-06-14 00:48:30:INFO:Menus : collecting data
+2022-06-14 00:48:54:INFO:connected with internet
+2022-06-14 00:48:54:ERROR:Main While loop : 'Operations_Oms' object has no attribute 'address_id'
+2022-06-14 00:49:00:ERROR:succesful logged out 
+2022-06-14 01:08:18:INFO:connected with internet
+2022-06-14 01:08:18:INFO:openinng browsers
+2022-06-14 01:08:18:INFO:
+
+2022-06-14 01:08:18:INFO:====== WebDriver manager ======
+2022-06-14 01:08:19:INFO:Current google-chrome version is 102.0.5005
+2022-06-14 01:08:19:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-14 01:08:19:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-14 01:08:50:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-14 01:11:36:ERROR:Menus : Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="username"]"}
+  (Session info: chrome=102.0.5005.63)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0098D953+2414931]
+	Ordinal0 [0x0091F5E1+1963489]
+	Ordinal0 [0x0080C6B8+837304]
+	Ordinal0 [0x00839500+1021184]
+	Ordinal0 [0x0083979B+1021851]
+	Ordinal0 [0x00866502+1205506]
+	Ordinal0 [0x008544E4+1131748]
+	Ordinal0 [0x00864812+1198098]
+	Ordinal0 [0x008542B6+1131190]
+	Ordinal0 [0x0082E860+976992]
+	Ordinal0 [0x0082F756+980822]
+	GetHandleVerifier [0x00BFCC62+2510274]
+	GetHandleVerifier [0x00BEF760+2455744]
+	GetHandleVerifier [0x00A1EABA+551962]
+	GetHandleVerifier [0x00A1D916+547446]
+	Ordinal0 [0x00925F3B+1990459]
+	Ordinal0 [0x0092A898+2009240]
+	Ordinal0 [0x0092A985+2009477]
+	Ordinal0 [0x00933AD1+2046673]
+	BaseThreadInitThunk [0x7634FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x778A7A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x778A7A4E+238]
+
+2022-06-14 01:36:45:INFO:connected with internet
+2022-06-14 01:36:45:INFO:openinng browsers
+2022-06-14 01:36:45:INFO:
+
+2022-06-14 01:36:45:INFO:====== WebDriver manager ======
+2022-06-14 01:36:46:INFO:Current google-chrome version is 102.0.5005
+2022-06-14 01:36:46:INFO:Get LATEST chromedriver version for 102.0.5005 google-chrome
+2022-06-14 01:36:46:INFO:Trying to download new driver from https://chromedriver.storage.googleapis.com/102.0.5005.61/chromedriver_win32.zip
+2022-06-14 01:37:26:INFO:Driver has been saved in cache [C:\Users\compuland\.wdm\drivers\chromedriver\win32\102.0.5005.61]
+2022-06-14 01:37:59:ERROR:Menus : Message: no such element: Unable to locate element: {"method":"css selector","selector":"[name="username"]"}
+  (Session info: chrome=102.0.5005.63)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00FCD953+2414931]
+	Ordinal0 [0x00F5F5E1+1963489]
+	Ordinal0 [0x00E4C6B8+837304]
+	Ordinal0 [0x00E79500+1021184]
+	Ordinal0 [0x00E7979B+1021851]
+	Ordinal0 [0x00EA6502+1205506]
+	Ordinal0 [0x00E944E4+1131748]
+	Ordinal0 [0x00EA4812+1198098]
+	Ordinal0 [0x00E942B6+1131190]
+	Ordinal0 [0x00E6E860+976992]
+	Ordinal0 [0x00E6F756+980822]
+	GetHandleVerifier [0x0123CC62+2510274]
+	GetHandleVerifier [0x0122F760+2455744]
+	GetHandleVerifier [0x0105EABA+551962]
+	GetHandleVerifier [0x0105D916+547446]
+	Ordinal0 [0x00F65F3B+1990459]
+	Ordinal0 [0x00F6A898+2009240]
+	Ordinal0 [0x00F6A985+2009477]
+	Ordinal0 [0x00F73AD1+2046673]
+	BaseThreadInitThunk [0x7634FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x778A7A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x778A7A4E+238]
+
